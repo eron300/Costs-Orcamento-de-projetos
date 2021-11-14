@@ -1,37 +1,44 @@
 {
   "projects": [
     {
-      "name": "Projeto teste",
-      "budget": "5000",
+      "name": "Lolzinho com os parça",
+      "budget": "550",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "My project",
-      "budget": "4000",
-      "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
       "id": 2
     },
     {
-      "name": "Teste",
-      "budget": "5000",
+      "name": "Digimon Online",
+      "budget": "35000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
+      "cost": 120,
+      "services": [
+        {
+          "name": "Digiclon",
+          "cost": "120",
+          "description": "buff no digimon",
+          "id": "32550caa-ea4d-4c0d-b969-e0463af1cd9a"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Poké Go",
+      "budget": "12500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
       "cost": 0,
       "services": [],
-      "id": 3
+      "id": 4
     }
   ],
   "categories": [
